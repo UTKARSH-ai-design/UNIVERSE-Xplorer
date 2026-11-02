@@ -5,3 +5,4 @@ Universe Explorer is a browser-based, interactive 3D visualization of the univer
 <img width="693" height="901" alt="1000374126" src="https://github.com/user-attachments/assets/704c2259-7693-40e8-8b5d-0ff7a98c39b2" />
 
 Users can drag to look around, pinch or scroll to zoom, and tap any object to see its key facts, such as diameter, distance, and temperature. Camera presets and an auto-tour mode provide guided views. The project runs entirely in the browser as one self-contained file, with no build step, and it respects the reduced-motion accessibility setting. Distances are compressed for visual clarity, and the cosmic-web structures are illustrative rather than real catalog data.
+Direct link to the website:- https://utkarsh-ai-design.github.io/UNIVERSE-Xplorer/
